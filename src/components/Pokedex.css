@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quantico&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+body{
+    display: flex;
+    justify-content: center;
+    background:rgb(81, 79, 79);
+}
+.pokedex{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    justify-content: center;
+    text-align: center;
+    margin-top:10rem;
+    background-color:rgb(228, 75, 75);
+    border-radius: 1.5rem;
+    font-family: 'Quantico', sans-serif;  
+    font-weight: 100;
+    box-shadow:  23px 23px 45px #3c3a3a,
+             -23px -23px 45px #6b6a6a;
+}
+.title{               
+
+    /* border: 1px solid black; */
+    margin:1rem 0 1rem 0;
+}
+.title h1{
+    margin-bottom: 1rem;
+}
+#poke{
+    height:15rem;
+    width: 15rem;
+}
+input{
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    width: 15rem;
+    border-radius: 2rem 0 0 2rem;
+    text-align:center;
+    font-family: inherit;
+    
+}
+button{
+    font-size:1.5rem;
+    border-radius: 0 3rem 3rem 0;
+}
+img{
+    border-radius: 1.5rem;
+    background-color: azure;
+    margin:2rem;
+    border: 5px solid black;border: 1px solid black;
+    box-shadow:  5px 5px 10px #6d2525,
+             -5px -5px 10px #ff6f6f;
+}
+.displayScreen{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    height:32rem;
+    width: 20rem;
+    margin: 2rem;
+    align-self: center;
+    border-radius: 1.5rem;
+    box-shadow:  23px 23px 45px #932a2a,
+             -23px -23px 45px #ff5c5c;
+}
+
+
+/* input fieldset */
+
+
