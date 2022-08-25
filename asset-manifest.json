@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lgm_vip_task2/static/css/main.c2684856.css",
+    "main.js": "/lgm_vip_task2/static/js/main.af58d65e.js",
+    "static/media/pokeball.png": "/lgm_vip_task2/static/media/pokeball.bfb8d939901a394b2469.png",
+    "index.html": "/lgm_vip_task2/index.html",
+    "main.c2684856.css.map": "/lgm_vip_task2/static/css/main.c2684856.css.map",
+    "main.af58d65e.js.map": "/lgm_vip_task2/static/js/main.af58d65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2684856.css",
+    "static/js/main.af58d65e.js"
+  ]
+}
